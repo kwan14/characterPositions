@@ -1,0 +1,1 @@
+characterPositions.js
